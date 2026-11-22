@@ -424,7 +424,7 @@ REST = [
     (19, "Washington", "US airlines warned of a plot ahead of Thanksgiving", "officials", "AM"),
     (20, "Tallinn", "Estonia to shut its Russia border from 1 Dec", "Reuters", "EU"),
     (21, "Wellington", "Pant\u2019s 128 takes India to 629 for six", "Reuters", "OC"),
-    (22, "Washington", "Nvidia faces SEC probe over its accounting", "Reuters", "AM"),
+    (22, "Washington", "Midterm loss widens 2028 field around Vance", "Japan Times", "AM"),
     (23, "Canberra", "Marles rejects US report on AUKUS subs", "ABC", "OC"),
     (24, "DR Congo", "Cantine, 40 killed", "local officials", "AF"),
     (25, "Geneva", "UN robot-weapons talks end with no binding rules", "AP", "GL"),
